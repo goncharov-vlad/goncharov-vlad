@@ -3,7 +3,7 @@
     <img heigh="100%" width="100%" src="https://i.pinimg.com/originals/01/ca/05/01ca051bd9cc85346b2144d218ad8e05.gif">
   </td>
   <td align="center">    
-    <b>Welcome!</b>	
+    <h3>Welcome!</h3>
   <hr>
     
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
